@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on https://www.freecodecamp.org/marijsin 
+- 🔭 I’m currently working on https://www.freecodecamp.org/marijsin , 
 some Udemy courses and Wes Bos´s https://javascript30.com/
+
 <!--
 **Amiliini/Amiliini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
