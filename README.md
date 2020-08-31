@@ -1,6 +1,15 @@
 ### Hi there 👋
-- 🌱 I’m currently learning https://www.freecodecamp.org/marijsin , 
-some Udemy courses and Wes Bos´s https://javascript30.com
+I´m a dressmaker and practical nurse by my earlier educations. 
+20 years of woring in retail, healthcare and various other stuff.
+Now I finally have the opportunity and courage to explore the world of coding..
+
+🌱 I’m currently learning https://www.freecodecamp.org/marijsin , 
+some Udemy courses (atmo Colt Steele´s ,Andrei Neagoie´s  and Angela Yu´s) and Wes Bos´s https://javascript30.com
+
+This fall I´m staring in Highway2Code program in Vaasa AMK, with webtechnologies and IoT.
+
+💬 Ask me about sourdough I´ve been baking loads of breads. ✌💚
+
 <!--
 **Amiliini/Amiliini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
