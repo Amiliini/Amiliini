@@ -1,12 +1,14 @@
 ### Hi there 👋
 I´m a dressmaker and practical nurse by my earlier educations. 
-20 years of woring in retail, healthcare and various other stuff.
+I have 20 years of experience working in retail, healthcare and importing fields.
+In 2020 I decided to quit my job working as a supervisor and truly commit to following my dreams.
+
 Now I finally have the opportunity and courage to explore the world of coding..
 
 🌱 I’m currently learning https://www.freecodecamp.org/marijsin , 
 some Udemy courses (atmo Colt Steele´s ,Andrei Neagoie´s  and Angela Yu´s) and Wes Bos´s https://javascript30.com
 
-This fall I´m staring in Highway2Code program in Vaasa AMK, with webtechnologies and IoT.
+This fall I´m starting studies in Highway2Code program in Vaasa AMK, with webtechnologies and IoT.
 
 💬 Ask me about sourdough I´ve been baking loads of breads. ✌💚
 
