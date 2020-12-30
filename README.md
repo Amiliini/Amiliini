@@ -1,14 +1,18 @@
 ### Hi there 👋
-I´m a dressmaker and practical nurse by my earlier educations. 
+I´m  Mari, a dressmaker and practical nurse by my earlier educations. 
 I have 20 years of experience working in retail, healthcare and importing fields.
-In 2020 I decided to quit my job working as a supervisor and truly commit to following my dreams.
+In 2020 I decided to quit my job working as a warehouse supervisor and truly commit to following my dreams.
 
-Now I finally have the opportunity and courage to explore the world of coding..
+Now I finally have the opportunity and courage to explore the world of coding.
 
-🌱 I’m currently learning https://www.freecodecamp.org/marijsin , 
+Fall 2020 I started studies in Highway2Code program in Vaasa AMK, with webtechnologies and IoT.
+Thus far we have enjoyed courses in HTML & CSS, WordPress, JavaScript, Fundamentals of AI and Introduction to programming (React).
+  (Jan - May 2021 we will study PHP & MySql, Cyber Security, software engineering project and do some practical training.)
+
+🌱 I’m also currently learning https://www.freecodecamp.org/marijsin , 
 some Udemy courses (atmo Colt Steele´s ,Andrei Neagoie´s  and Angela Yu´s) and Wes Bos´s https://javascript30.com
 
-This fall I´m starting studies in Highway2Code program in Vaasa AMK, with webtechnologies and IoT.
+
 
 💬 Ask me about sourdough I´ve been baking loads of breads. ✌💚
 
