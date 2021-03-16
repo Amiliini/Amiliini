@@ -6,11 +6,12 @@ In 2020 I decided to quit my job working as a warehouse supervisor and truly com
 Now I finally have the opportunity and courage to explore the world of coding.
 
 Fall 2020 I started studies in Highway2Code program in Vaasa AMK, with webtechnologies and IoT.
-Thus far we have enjoyed courses in HTML & CSS, WordPress, JavaScript, Fundamentals of AI and Introduction to programming (React).
-  (Jan - May 2021 we will study PHP & MySql, Cyber Security, software engineering project and do some practical training.)
+Thus far we have enjoyed courses in HTML & CSS, WordPress, JavaScript, Fundamentals of AI,
+Introduction to programming (React),PHP & MySql and Cyber Security.
+Next month or so we have software engineering project and practical training left. 
+So pretty soon I´ll be back to my onlinelearning and doing projects on my own.
 
-🌱 I’m also currently learning https://www.freecodecamp.org/marijsin , 
-some Udemy courses (atmo Colt Steele´s ,Andrei Neagoie´s  and Angela Yu´s) and Wes Bos´s https://javascript30.com
+Plan is to start the Full Stack open 2021 in May.
 
 
 
