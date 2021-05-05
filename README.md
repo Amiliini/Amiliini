@@ -1,19 +1,16 @@
 ### Hi there 👋
 I´m  Mari, a dressmaker and practical nurse by my earlier educations. 
 I have 20 years of experience working in retail, healthcare and importing fields.
-In 2020 I decided to quit my job working as a warehouse supervisor and truly commit to following my dreams.
 
-Now I finally have the opportunity and courage to explore the world of coding.
+In 2020 I decided to quit my job working as a warehouse supervisor and truly commit (pun intented) to follow my dreams.
 
-Fall 2020 I started studies in Highway2Code program in Vaasa AMK, with webtechnologies and IoT.
-Thus far we have enjoyed courses in HTML & CSS, WordPress, JavaScript, Fundamentals of AI,
-Introduction to programming (React),PHP & MySql and Cyber Security.
-Next month or so we have software engineering project and practical training left. 
-So pretty soon I´ll be back to my onlinelearning and doing projects on my own.
+Now I finally have the opportunity and courage to explore the world of coding!
 
-Plan is to start the Full Stack open 2021 in May.
-
-
+Fall 2020 I started studies in Highway2Code program in Vaasa AMK, with studies in webtechnologies and IoT.
+The courses were: HTML & CSS, WordPress, JavaScript, Fundamentals of AI,
+Introduction to programming (React),PHP & MySql and Cyber Security, Software engineering project (video here: https://www.youtube.com/watch?v=Ui23eTP56Uc ) and practical training. 
+ 
+Now I´m back to my solo onlinelearning and doing projects all by myself (🎵"Here I go again" by Whitesnake playing here 🎵).
 
 💬 Ask me about sourdough I´ve been baking loads of breads. ✌💚
 
