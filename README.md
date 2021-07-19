@@ -6,11 +6,11 @@ In 2020 I decided to quit my job working as a warehouse supervisor and truly com
 
 Now I finally have the opportunity and courage to explore the world of coding!
 
-Fall 2020 I started studies in Highway2Code program in Vaasa AMK, with studies in webtechnologies and IoT.
+May 2021 I finished studies in Highway2Code program in Vaasa AMK, with studies in webtechnologies and IoT.
 The courses were: HTML & CSS, WordPress, JavaScript, Fundamentals of AI,
 Introduction to programming (React),PHP & MySql and Cyber Security, Software engineering project (video here: https://www.youtube.com/watch?v=Ui23eTP56Uc ) and practical training. 
- 
-Now I´m back to my solo onlinelearning and doing projects all by myself (🎵"Here I go again" by Whitesnake playing here 🎵).
+
+Now I´m learning new skills on FullStack rekrykoulutus with Opiframe.
 
 💬 Ask me about sourdough I´ve been baking loads of breads. ✌💚
 
